@@ -37,7 +37,7 @@ To get a local copy up and running, follow these simple steps.
    ```sh
    git clone https://github.com/your-username/tic-tac-toe.git
 
-### Screenshots
+
 
 
 
